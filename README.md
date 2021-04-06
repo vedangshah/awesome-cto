@@ -34,7 +34,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe) - Greg Brockman *(Stripe CTO)*
  * [How my role as CTO has changed as we've grown to 100 engineers](https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/)
  * [Your first 90 days as CTO or VP Engineering](https://lethain.com/first-ninety-days-cto-vpe/)
-
+ * [The difference between a CTO and a VP Engineering](https://www.linkedin.com/pulse/20140615184118-4928723-the-differences-between-a-cto-and-a-vp-engineering/)
 ## Hiring
 
  * [The Guerrilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - Joel Spolsky *(StackOverflow co-founder)*
@@ -43,7 +43,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * [We Hire the Best, Just Like Everyone Else](https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/) - Jeff Atwood
  * [Getting the Interview Phone Screen Right](https://blog.codinghorror.com/getting-the-interview-phone-screen-right/) - Jeff Atwood
  * [Engineering interview process at Stripe](https://www.quora.com/What-is-the-engineering-interview-process-like-at-Stripe) *(Quora)*
- * [Improving Our Engineering Interview Process](https://engineering.foursquare.com/improving-our-engineering-interview-process-106173ba25a9) *(Foursquare)*
+ * [Improving Our Engineering Interview Process](https://medium.com/foursquare-direct/improving-our-engineering-interview-process-106173ba25a9) *(Foursquare)*
  * [Hitting the High Notes](https://www.joelonsoftware.com/2005/07/25/hitting-the-high-notes/) - Joel Spolsky
  * [Top 10 System Design Interview Questions](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444) - *(HackerNoon)*
  * [How To Hire World-Class Engineers](https://angel.co/blog/how-to-hire-world-class-engineers) *(angel.co)*
@@ -98,6 +98,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * [Valve Employee Handbook](https://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
  * [Basecamp Employee Handbook](https://github.com/basecamp/handbook)
  * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
+ * [How HashiCorp Works](https://works.hashicorp.com/)
 
 ## Development process
 
@@ -110,6 +111,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * Git
    * [Comparing Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
    * [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+   * Alternative: [Trunk Based Development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development) (focused on [DevOps and CI/CD](https://cloud.google.com/solutions/devops/devops-tech-trunk-based-development))
  * Planning
    * [Evidence Based Scheduling](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - Joel Spolsky *(StackOverflow co-founder)*
    * [Why You Should Learn to Stop Worrying and Love Technical Debt](https://marker.medium.com/why-you-should-learn-to-stop-worrying-and-love-technical-debt-55bb5684f94c)
@@ -127,7 +129,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * [Twelve-Factor App](https://12factor.net)
  * [Reactive Manifesto](https://www.reactivemanifesto.org)
  * [An introduction to distributed systems](https://github.com/aphyr/distsys-class) - Kyle Kingsbury *(aphyr, author of Jepsen)*
- * [Microservices – Please, don’t](https://basho.com/posts/technical/microservices-please-dont/) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12508655))
+ * [Microservices – Please, don’t](https://riak.com/posts/technical/microservices-please-dont/) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12508655))
  * [The Death of Microservice Madness in 2018](https://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
  * [Shrinking microservices to functions](https://highscalability.com/blog/2017/3/27/faster-networks-cheaper-messages-microservices-functions-edg.html)
  * [Design patterns for microservices](https://azure.microsoft.com/en-us/blog/design-patterns-for-microservices/)
@@ -187,6 +189,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * [Startup Playbook](https://playbook.samaltman.com) - Sam Altman
  * [Y Combinator Startup Class](https://startupclass.samaltman.com)
  * [Lean Canvas](https://leanstack.com/leancanvas) + [Miro template](https://miro.com/templates/lean-canvas/)
+ * [Open Source Pitch Deck Templates for Figma](https://www.figmafinder.com/figma-pitch-deck)
  
 
 ## Related stuff
